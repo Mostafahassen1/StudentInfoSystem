@@ -56,7 +56,7 @@ This project is a simple web-based Student Management Information System that al
 ```
 4. Access the project through your web browser.
    ```bash
-   http://localhost:8000/index.php
+   /index.php
    ```
 
 ## Usage
